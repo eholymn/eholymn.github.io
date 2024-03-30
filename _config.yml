@@ -108,11 +108,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Welcome to my **Scientific Computing** world"
   location         : "PKNU"
-  email            : "aaasss2000@naver.com"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "aaasss2000@naver.com"
+      # url: "aaasss2000@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://scicomp.pknu.ac.kr/scicomp/1"
