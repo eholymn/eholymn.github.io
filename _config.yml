@@ -16,12 +16,12 @@ minimal_mistakes_skin    : "dark" # "default" # "air", "aqua", "contrast", "dark
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "과학컴퓨팅"
+title                    : "과학컴퓨팅 계산과학"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "과학"
-description              : "부경"
-url                      : "https://scicompt.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "이성민"
+description              : "부경대학교"
+url                      : "https://eholymn.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -104,15 +104,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "과학컴퓨팅"
+  name             : "eholymn"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Scientific Computing is **amasing**"
+  bio              : "Welcome to my **Scientific Computing** world"
   location         : "PKNU"
-  email            :
+  email            : "aaasss2000@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "aaasss2000@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://scicomp.pknu.ac.kr/scicomp/1"
